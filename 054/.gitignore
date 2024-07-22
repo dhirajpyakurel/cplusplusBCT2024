@@ -1,0 +1,8 @@
+fonograf
+*.exe
+*.o
+*.obj
+
+*.mp3
+*.wav
+*.flac
